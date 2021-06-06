@@ -1,4 +1,4 @@
-# This is the start of my Portfolio Page
+# This is the Start of my Portfolio Page
 
 ## Planned Projects:
 
